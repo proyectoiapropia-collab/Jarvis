@@ -1,0 +1,19 @@
+{
+  "name": "J.A.R.V.I.S.",
+  "short_name": "JARVIS",
+  "description": "Just A Rather Very Intelligent System",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#000d1a",
+  "theme_color": "#00d4ff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' fill='%23000d1a'/><circle cx='256' cy='256' r='200' fill='none' stroke='%2300d4ff' stroke-width='14'/><circle cx='256' cy='256' r='130' fill='none' stroke='%2300d4ff' stroke-width='6' opacity='0.4'/><circle cx='256' cy='256' r='65' fill='%2300d4ff' opacity='0.85'/><circle cx='256' cy='256' r='32' fill='white'/><text x='256' y='420' text-anchor='middle' font-family='monospace' font-weight='bold' font-size='52' fill='%2300d4ff'>JARVIS</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
